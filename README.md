@@ -5,3 +5,8 @@
 
 访问发布页面:
 https://vivapercuore.github.io/textGamerIO/
+
+说明：
+正在开发中阶段，内容很少
+欢迎大家提脑洞和意见
+摸鱼的时候会努力更新
